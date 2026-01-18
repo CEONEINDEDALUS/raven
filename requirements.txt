@@ -1,0 +1,11 @@
+# Raven AI Assistant Requirements
+PyQt6>=6.4.0
+ollama
+openai-whisper
+numpy
+SpeechRecognition
+PyAudio
+onnxruntime
+kokoro>=0.5.0
+sounddevice
+opencv-python>=4.5.0
