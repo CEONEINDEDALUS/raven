@@ -3,7 +3,11 @@
 **Reclusive Artificial Vision Enhanced Navigator**
 
 
-https://github.com/user-attachments/assets/5c3136fe-e17c-4845-a3f0-29af85b7b535
+
+https://github.com/user-attachments/assets/446b16b3-77ef-4e6d-af91-f376953688b9
+
+
+
 
 
 > 
