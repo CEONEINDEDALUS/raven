@@ -2,7 +2,11 @@
 
 **Reclusive Artificial Vision Enhanced Navigator**
 
-> *Just another temporary AI assistant in your life, but better.*
+
+https://github.com/user-attachments/assets/5c3136fe-e17c-4845-a3f0-29af85b7b535
+
+
+> 
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
