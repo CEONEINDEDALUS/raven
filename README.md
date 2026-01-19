@@ -291,7 +291,7 @@ See [LICENSE](LICENSE) file for details.
 
 
 
-
+Reminder: This is only first version of programm . It may crash, stutter and doesnot work . It is not your fault but mine.
 
 
 
